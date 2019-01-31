@@ -11,6 +11,6 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 Binary classification
 Python and R basics
 
-==============================================================================================================================
+# Link
 
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
